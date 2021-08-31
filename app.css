@@ -1,0 +1,48 @@
+body, html {
+    width: 100%;
+    height: 100%;
+    background-color:lavender ;
+}
+
+h1 {
+    font-family: "Lucida Console", "Courier New", monospace;
+    font-weight: 70;
+    color: #502989;
+    font-size: 30px;  
+}
+
+body, h2, h4, h5 {
+    font-family: "Lucida Console", "Courier New", monospace;
+    font-weight: 70;
+    color: #502989;
+    font-size: 14px;
+}
+
+h2 {
+font-size: 20px;
+}
+
+
+a {
+    color: inherit;
+}
+
+.big-container {
+    position: relative;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    width: 100%;
+    text-align: center;
+    background-color: lavender;
+    background-size: cover;
+}
+
+.footer {
+    position: absolute;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    width: 100%;
+    text-align: center;
+    background-color: lavender;
+    background-size: cover;
+}
